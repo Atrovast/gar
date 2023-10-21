@@ -1,0 +1,76 @@
+{
+    "kind": [
+        {
+            "order": 1,
+            "site": "https://onlinejudge.org/",
+            "title": "Online Judge",
+            "site_hash": "123",
+            "icon": "123.ico"
+        }
+    ],
+    "OJ": [
+        {
+            "order": 1,
+            "site": "https://leetcode.cn/",
+            "title": "力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台",
+            "hash": "c7a386d4818e35604b85b5acba6b5629",
+            "icon": "favicons/OJ/c7a386d4818e35604b85b5acba6b5629.ico"
+        },
+        {
+            "order": 2,
+            "site": "https://www.acwing.com/",
+            "title": "AcWing",
+            "hash": "6266e41d1e864b08d9836a3197bb0367",
+            "icon": "favicons/OJ/6266e41d1e864b08d9836a3197bb0367.ico"
+        },
+        {
+            "order": 3,
+            "site": "https://www.luogu.com.cn/",
+            "title": "首页 - 洛谷 | 计算机科学教育新生态",
+            "hash": "05bb0cdc3074bb92b4f8002a5c65e95d",
+            "icon": "favicons/OJ/05bb0cdc3074bb92b4f8002a5c65e95d.ico"
+        },
+        {
+            "order": 4,
+            "site": "https://vijos.org/",
+            "title": "首页 - Vijos",
+            "hash": "904342043a7916bf45c6b72015bb4bee",
+            "icon": "favicons/OJ/904342043a7916bf45c6b72015bb4bee.ico"
+        },
+        {
+            "order": 5,
+            "site": "https://loj.ac/",
+            "title": "首页 - LibreOJ",
+            "hash": "784322372351846ab4ff2bf02bb31a21",
+            "icon": "favicons/OJ/784322372351846ab4ff2bf02bb31a21.ico"
+        },
+        {
+            "order": 6,
+            "site": "https://www.lintcode.com/",
+            "title": "LintCode 领扣",
+            "hash": "00858dabc7651aea672d033475a79c2c",
+            "icon": "favicons/OJ/00858dabc7651aea672d033475a79c2c.ico"
+        },
+        {
+            "order": 7,
+            "site": "https://www.topcoder.com/",
+            "title": "Topcoder | Design &amp; Build High-Quality Software with On-Demand Talent",
+            "hash": "7ae55b48eca642258fe065ce6b88b34b",
+            "icon": "favicons/OJ/7ae55b48eca642258fe065ce6b88b34b.ico"
+        },
+        {
+            "order": 8,
+            "site": "https://atcoder.jp/home",
+            "title": "AtCoder",
+            "hash": "cf545167a78503b9e640502ce3f7f50a",
+            "icon": "favicons/OJ/cf545167a78503b9e640502ce3f7f50a.ico"
+        },
+        {
+            "order": 9,
+            "site": "https://onlinejudge.org/",
+            "title": "Online Judge - Home",
+            "hash": "0a50cc40738787d38571bc52acbfaa97",
+            "icon": "favicons/OJ/0a50cc40738787d38571bc52acbfaa97.ico"
+        }
+    ]
+}
